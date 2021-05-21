@@ -13,6 +13,7 @@ Sie kennen die Gesundheitlichen Folgen einer Vegetarischen- bzw. Veganen Lebensw
 
 Den Veganen und Vegetarischen Lifestyle noch gesünder zu machen und probleme frühzeitig zu erkennen mithilfe einer lanjährig entwickelten Methode.
 
+
 ### Unsere Vorteile 
 <ul>
   <li>Eine Übersichtliche App in der ihr persönlicher Gesundheitsscore von Experten berechnet wird und in der andere Aktivitäten mitaufgenommen werden.</li>
@@ -21,6 +22,7 @@ Den Veganen und Vegetarischen Lifestyle noch gesünder zu machen und probleme fr
    <li>Mit eklusiven Ernährungs- und Trainingstipps</li>
    <b><li>DURCH EINEN BESONDERS GUTEN GESUNDHEITSSCORE KÖNNEN BEITRÄGE EINGESPART UND SOGAR GESPENDET WERDEN</li></b>
  </ul>
+
 
 ### So finden Sie uns!
 
