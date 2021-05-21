@@ -1,45 +1,25 @@
-## Welcome to GitHub Pages
+## Willkommen bei VeganInsurance 
 
-You can use the [editor on GitHub](https://github.com/dhbw-de/VeganInsurance/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Die Versicherungslösung für alle Vegetarier und Veganer
 
-asdfasdf
+Sie kennen die Gesundheitlichen Folgen einer Vegetarischen- bzw. Veganen Lebensweise?
 
-
-asdfadsf
-
-
-asdfdsaf
+ <b>Dann sind Sie bei uns genau Richtig!</b>
 
 
 
-### Markdown
+### Unsere Philosophie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Den Veganen und Vegetarischen Lifestyle noch gesünder zu machen und probleme frühzeitig zu erkennen mithilfe einer lanjährig entwickelten Methode.
 
-```markdown
-Syntax highlighted code block
+### Unsere Vorteile 
+<ul>
+  <li>Eine Übersichtliche App in der ihr persönlicher Gesundheitsscore von Experten berechnet wird und in der andere Aktivitäten mitaufgenommen werden.</li>
+  <li>Ihre Blutwerte werden von Experten analysiert und es werden individuelle Lösungen angeboten um frühzeitig dagegen zu wirken</li>
+   <li>Von überall zu nutzen</li>
+   <li>Mit eklusiven Ernährungs- und Trainingstipps</li>
+   <b><li>DURCH EINEN BESONDERS GUTEN GESUNDHEITSSCORE KÖNNEN BEITRÄGE EINGESPART UND SOGAR GESPENDET WERDEN</li></b>
 
-# Header 1
-## Header 2
-### Header 3
+### So finden Sie uns!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhbw-de/VeganInsurance/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="https://static.vecteezy.com/ti/gratis-vektor/t2/362767-standort-symbol-kostenlos-vektor.jpg">
