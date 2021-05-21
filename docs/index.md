@@ -8,6 +8,7 @@ Sie kennen die Gesundheitlichen Folgen einer Vegetarischen- bzw. Veganen Lebensw
 
 
 
+
 ### Unsere Philosophie
 
 Den Veganen und Vegetarischen Lifestyle noch gesünder zu machen und probleme frühzeitig zu erkennen mithilfe einer lanjährig entwickelten Methode.
@@ -19,6 +20,7 @@ Den Veganen und Vegetarischen Lifestyle noch gesünder zu machen und probleme fr
    <li>Von überall zu nutzen</li>
    <li>Mit eklusiven Ernährungs- und Trainingstipps</li>
    <b><li>DURCH EINEN BESONDERS GUTEN GESUNDHEITSSCORE KÖNNEN BEITRÄGE EINGESPART UND SOGAR GESPENDET WERDEN</li></b>
+ </ul>
 
 ### So finden Sie uns!
 
