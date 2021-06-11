@@ -6,6 +6,8 @@ Sie kennen die Gesundheitlichen Folgen einer Vegetarischen- bzw. Veganen Lebensw
 
  <b>Dann sind Sie bei uns genau Richtig!</b>
  
+[Features](features.md)
+ 
 ![Image](../assets/Logo1.JPG)
  
 ![Image](../assets/Logo%202.JPG)
