@@ -5,8 +5,13 @@ Die Versicherungslösung für alle Vegetarier und Veganer
 Sie kennen die Gesundheitlichen Folgen einer Vegetarischen- bzw. Veganen Lebensweise?
 
  <b>Dann sind Sie bei uns genau Richtig!</b>
+ 
+![Image](../assets/Logo1.JPG)
+ 
+![Image](../assets/Logo%202.JPG)
 
 
+![Image](../assets/Startbild%20Webseite.png)
 
 
 ### Unsere Philosophie
